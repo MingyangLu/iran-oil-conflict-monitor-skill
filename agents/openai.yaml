@@ -1,0 +1,4 @@
+interface:
+  display_name: "Iran Oil Conflict Monitor"
+  short_description: "Track US-Iran conflict news and oil-price impact"
+  default_prompt: "Use $iran-oil-conflict-monitor to verify recent US-Iran conflict developments and assess the likely impact on crude oil prices."
